@@ -36,7 +36,7 @@ This project dives deep into historical Apple iPhone data to discover trends, pa
 
 1. **Clone this repo**:
    ```bash
-   git clone https://github.com/your-username/iphone-sales-analysis.git
+   git clone https://github.com/rkvperpetual/iphone-sales-analysis.git
    ```
 
 2. **Install dependencies**:
