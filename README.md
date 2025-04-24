@@ -30,8 +30,6 @@ This project dives deep into historical Apple iPhone data to discover trends, pa
   - Which features impact price the most (battery, RAM, screen size, etc.)
   - Model comparisons and category breakdowns
 
-> 📷 Want to see what the analysis looks like? Check out the screenshots below! *(Optional – you can add `images/` folder with graphs and use `![Alt text](images/graph.png)` here)*
-
 ---
 
 ## 🚀 How to Run This
@@ -63,5 +61,5 @@ This project dives deep into historical Apple iPhone data to discover trends, pa
 
 ## 👤 Author
 
-**[Your Name](https://github.com/your-username)**  
+**[Raj Kumar Vishwakarma](https://github.com/rkvperpetual)**  
 Feel free to ⭐ the repo or reach out for suggestions/collab!
